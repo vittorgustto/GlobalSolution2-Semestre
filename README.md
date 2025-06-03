@@ -62,6 +62,8 @@ Este projeto se alinha com as diretrizes da [International Disaster Charter](htt
 
 -[Simulação Wokwi](https://wokwi.com/projects/432410645491940353)
 
+### Documentação ###
+A documentação do projeto se encontra na pasta /document
 
 ### Link Vídeo Youtube ###
 
