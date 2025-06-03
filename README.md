@@ -49,6 +49,10 @@ Foram realizadas as seguintes etapas de tratamento:
 -Saída: "Temperatura segura", "Risco moderado" ou "ALERTA DE CALOR!"
 
 
+## Fundamentação Global
+Este projeto se alinha com as diretrizes da [International Disaster Charter](https://disasterscharter.org/), que reconhece as ondas de calor como desastres ambientais recorrentes e de alto impacto social.
+
+
 ### 🖼️ Wokwi em funcionamento ###
 
 ![Wokwi em funcionamento](document/print_wokwi_simulacao.png)
