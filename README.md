@@ -51,8 +51,7 @@ Foram realizadas as seguintes etapas de tratamento:
 
 ### 🖼️ Gráfico da Previsão ###
 
-![Gráfico da Previsão](document/grafico_previsao_2025.png)
-![Produtividade Real vs Prevista](document/produtividade_real_vs_pvista.png)
+![Wokwi em funcionamento](document/print_wokwi_simulacao.png)
 
 
 ### Link Wikwi ###
