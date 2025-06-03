@@ -49,7 +49,7 @@ Foram realizadas as seguintes etapas de tratamento:
 -Saída: "Temperatura segura", "Risco moderado" ou "ALERTA DE CALOR!"
 
 
-### 🖼️ Gráfico da Previsão ###
+### 🖼️ Wokwi em funcionamento ###
 
 ![Wokwi em funcionamento](document/print_wokwi_simulacao.png)
 
