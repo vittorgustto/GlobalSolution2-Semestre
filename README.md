@@ -67,7 +67,7 @@ A documentação do projeto se encontra na pasta /document
 
 ### Link Vídeo Youtube ###
 
-https://www.youtube.com/watch?v=uNdEICYmiR0
+[https://www.youtube.com/watch?v=uNdEICYmiR0](https://www.youtube.com/watch?v=ruRP8QRf_gU)
 
 
 ## 📁 Estrutura de pastas
